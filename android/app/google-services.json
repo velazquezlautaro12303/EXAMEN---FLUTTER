@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198087606683",
+    "project_id": "curso-flutter-cd410",
+    "storage_bucket": "curso-flutter-cd410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198087606683:android:dc7ac8212e69d1f24ea13e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2u-usSN6cMWEonzprxch4VuDVgJLpJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
